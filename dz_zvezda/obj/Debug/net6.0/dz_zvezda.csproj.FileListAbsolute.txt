@@ -1,0 +1,15 @@
+C:\Users\bogda\OneDrive\Рабочий стол\dz_19,21,23\drenizhan26.05.2023\dz_zvezda\obj\Debug\net6.0\dz_zvezda.csproj.AssemblyReference.cache
+C:\Users\bogda\OneDrive\Рабочий стол\dz_19,21,23\drenizhan26.05.2023\dz_zvezda\obj\Debug\net6.0\dz_zvezda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bogda\OneDrive\Рабочий стол\dz_19,21,23\drenizhan26.05.2023\dz_zvezda\obj\Debug\net6.0\dz_zvezda.AssemblyInfoInputs.cache
+C:\Users\bogda\OneDrive\Рабочий стол\dz_19,21,23\drenizhan26.05.2023\dz_zvezda\obj\Debug\net6.0\dz_zvezda.AssemblyInfo.cs
+C:\Users\bogda\OneDrive\Рабочий стол\dz_19,21,23\drenizhan26.05.2023\dz_zvezda\obj\Debug\net6.0\dz_zvezda.csproj.CoreCompileInputs.cache
+C:\Users\bogda\OneDrive\Рабочий стол\dz_19,21,23\drenizhan26.05.2023\dz_zvezda\bin\Debug\net6.0\dz_zvezda.exe
+C:\Users\bogda\OneDrive\Рабочий стол\dz_19,21,23\drenizhan26.05.2023\dz_zvezda\bin\Debug\net6.0\dz_zvezda.deps.json
+C:\Users\bogda\OneDrive\Рабочий стол\dz_19,21,23\drenizhan26.05.2023\dz_zvezda\bin\Debug\net6.0\dz_zvezda.runtimeconfig.json
+C:\Users\bogda\OneDrive\Рабочий стол\dz_19,21,23\drenizhan26.05.2023\dz_zvezda\bin\Debug\net6.0\dz_zvezda.dll
+C:\Users\bogda\OneDrive\Рабочий стол\dz_19,21,23\drenizhan26.05.2023\dz_zvezda\bin\Debug\net6.0\dz_zvezda.pdb
+C:\Users\bogda\OneDrive\Рабочий стол\dz_19,21,23\drenizhan26.05.2023\dz_zvezda\obj\Debug\net6.0\dz_zvezda.dll
+C:\Users\bogda\OneDrive\Рабочий стол\dz_19,21,23\drenizhan26.05.2023\dz_zvezda\obj\Debug\net6.0\refint\dz_zvezda.dll
+C:\Users\bogda\OneDrive\Рабочий стол\dz_19,21,23\drenizhan26.05.2023\dz_zvezda\obj\Debug\net6.0\dz_zvezda.pdb
+C:\Users\bogda\OneDrive\Рабочий стол\dz_19,21,23\drenizhan26.05.2023\dz_zvezda\obj\Debug\net6.0\dz_zvezda.genruntimeconfig.cache
+C:\Users\bogda\OneDrive\Рабочий стол\dz_19,21,23\drenizhan26.05.2023\dz_zvezda\obj\Debug\net6.0\ref\dz_zvezda.dll
